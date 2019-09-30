@@ -26,5 +26,11 @@
    <li><h4><a href=https://matplotlib.org>Matplotlib</a>: The most popular plotting tool for Python.</h4>                                                             </li>
 </ul>
 
+</p>
 
 <h2>Explanation Coming Soon :stuck_out_tongue_winking_eye:</h2>
+
+</p>
+
+<h3>There are some issue when view .ipynb :expressionless: ("Sorry, something went wrong. Reload?") Probably a problem with the GitHub notebook viewing tool - sometimes github fails to render the ipynb notebooks, I believe that is some temporary (and recurring) issue with their backend :triumph:</h3>
+
